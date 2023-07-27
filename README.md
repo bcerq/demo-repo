@@ -6,3 +6,4 @@
   ## Desenvolvimento local
 
   1. Abra o index.html no seu navegador.
+  Teste.
